@@ -22,7 +22,7 @@ go on and onnnn. I bet hundreds of others would've already shared them with you 
 bore you saying the exact same things again and again, but damnnn you are an angel.. you are 
 everything any guy would wish for! ❤️❤️. How can anyone not pamper you!!>>
 
-I don't know what the future holds for us, nor do I wanna spend time worring about it. I don't 
+I don't know what the future holds for us, nor do I wanna spend time worring about things I have no control on. I don't 
 wanna make another one of those boring ass promises (promises are overrated 😩). I don't wanna 
 ask you about your traumas and make you exp them once again. For all I know, I am out of luck 
 as all of it was used in finding you. Now that you are here, let me love you, 
