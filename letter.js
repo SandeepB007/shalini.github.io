@@ -1,6 +1,6 @@
 var i = 0;
 var txt1 = `
-YO Sandeeeep, 
+YO Sandeeeep, >>
 Get your shit together!!!!
 `
 var speed = 50;
