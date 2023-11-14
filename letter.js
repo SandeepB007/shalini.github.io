@@ -1,15 +1,18 @@
 var i = 0;
 var txt1 = `
-Yo Shaliniiiii, >>
-I think we are meeting again at the same place !!!! >>>
+Yo Shaliniiiii, >>>
 
-I am very bad at expressing myself and very good at messing things, dont know what to say where to start 👉👈.
-Whenever I see you, forget seeing even when I talk with you. I feel fullll butterflies and em cheppalo anni marchiptotaaa 😅😁.
+This is a special letter for you, Don't worry this time >>>
+you can simply hide this from anyone 😉 .
 
-I just want you to know that you are my special special speciallllllll person and will always be.
-I want to call you my cutiepie, sweetie, bangaram, bujji, bajji, ammulu everything. I just want to make you feel as special as you are in my head.
+I am very bad at expressing myself and very good at messing things, dont know what to say where to start 👉👈. >>>
+Whenever I see you, forget seeing even when I talk with you. I feel fullll butterflies and em cheppalo anni marchiptotaaa 😅😁. >>>
 
-Will you come on a "Date" with me 😍.
+I just want you to know that you are my special special speciallllllll person and will always be. >>>
+I want to call you my cutiepie, sweetie, bangaram, bujji, bajji, ammulu everything. I want to make you feel as special as you are in my head. >>>
+
+Are you ready to feel special !!
+Will you come on a "First Date" with me 😍.
 `
 var speed = 50;
 typeWriter();
