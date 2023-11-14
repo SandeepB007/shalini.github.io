@@ -1,7 +1,7 @@
 var i = 0;
 var txt1 = `
 YO Sandeeeep, >>
-Get your shit together!!!!
+Let's start here !!!!
 `
 var speed = 50;
 typeWriter();
