@@ -119,7 +119,8 @@
   }
   
   .lua .textura {
-    background-image: url(https://github.com/sowmmyyaaaa/sowmmyyaaaa.github.io/blob/main/bgMoon.png?raw=true);
+    /* Need to change the url */
+    background-image: url(https://github.com/SandeepB007/shalini.github.io/bgMoon.png?raw=true);
     background-position: center;
     background-size: 100%;
     width: 100%;
