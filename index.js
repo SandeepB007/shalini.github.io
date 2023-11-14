@@ -1,4 +1,4 @@
-var opacity = ["opacity1", "opacity1", "opacity1", "opacity2", "opacity2", "opacity3"];
+var opacity = ["opacity1", "opacity1", "opacity1", "opacity2", "opacity2", "opacity3"];;
 function init(){
 
     //estrelas
