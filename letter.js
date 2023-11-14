@@ -5,8 +5,8 @@ Yo Shaliniiiii, >>>
 This is a special letter for you ! >>>
 Don't worry this time, you can simply hide this from anyone 😉.>>>
 
-I am very bad at expressing myself and very good at messing things, dont know what to say where to start 👉👈. >
-Whenever I see you, forget seeing even when I talk with you. I feel fullll butterflies and em cheppalo anni marchiptotaaa 😅😁. >
+I am very very bad at expressing myself and very good at messing things, dont know what to say where to start 👉👈. >
+Whenever I see you, forget seeing even when I talk with you. I feel fullll butterflies and em cheppalo anni marchiptotaaa, anduke ee letter 😅😁.>
 I just want you to know that you are my special special speciallllllll person and will always be. >
 I want to call you my cutiepie, sweetie, bangaram, bujji, bajji, ammulu everything. I want to make you feel as special as you are in my head. >>>
 
