@@ -118,7 +118,7 @@
     animation-duration: 10s;
   }
   
-  .lua .cutu {
+  .lua .textura {
     /* Need to change the url */
     background-image: url(https://github.com/SandeepB007/shalini.github.io/blob/main/bgMoon.png?raw=true);
     background-position: center;
@@ -147,7 +147,7 @@
     left: 0;
   }
   
-  .cutu {
+  .lua .cutu {
     overflow: hidden;
     position: fixed;
     left: 0;
